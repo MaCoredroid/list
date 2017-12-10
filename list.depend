@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512911333 source:e:\coredroid\list\main.cpp
+	<iostream>
+	"list.h"
+
+1512911433 e:\coredroid\list\list.h
+	<stdlib.h>
+	<iostream>
+
